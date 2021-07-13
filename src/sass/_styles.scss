@@ -1,0 +1,43 @@
+
+img {
+   display: block;
+   max-width: 200px;
+   height: auto;
+}
+.left-part {
+    margin-right: 60px;
+}
+input {
+  width: 400px;
+  height: 60px;
+  
+}
+.input-wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+.left-part,  .wrapper {
+   
+}
+.card-wrapper-country {
+    display: flex;
+     justify-content: center;
+}
+.right-part {
+     margin-left: 50px;
+}
+.countryName{
+    text-align: center;
+    font-weight: 800;
+}
+.wrapper{
+   
+}
+.card-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
